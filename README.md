@@ -23,3 +23,7 @@ This data was created through a mixed usage of the Blender Python API alongside 
 
 Brick Architect (https://brickarchitect.com) for knowledge and resources on LEGO parts and colors.
 LDraw (https://www.ldraw.org/) for 3D part models.
+
+
+## Find The Data Set [Here](https://www.kaggle.com/ronanpickell/account?isEditing=False&verifyPhone=False):
+
