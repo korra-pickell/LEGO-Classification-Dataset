@@ -25,5 +25,5 @@ Brick Architect (https://brickarchitect.com) for knowledge and resources on LEGO
 LDraw (https://www.ldraw.org/) for 3D part models.
 
 
-## Find The Data Set [Here](https://www.kaggle.com/ronanpickell/account?isEditing=False&verifyPhone=False):
+## Find The Data Set [Here on Kaggle](https://www.kaggle.com/ronanpickell/account?isEditing=False&verifyPhone=False)
 
