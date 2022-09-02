@@ -1,4 +1,7 @@
 # LEGO-Classification-Dataset
+
+![alt text](https://github.com/korra-pickell/LEGO-Classification-Dataset/blob/master/Demos/full.png)
+
 ### Machine Generated LEGO Brick Classification Data Set
 
 Use this data for training custom LEGO object classification models. This highly realistic data is **fully synthetic**, and attempts to mimic photo-realism as closely as possible.
