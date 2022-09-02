@@ -3,6 +3,8 @@
 
 Use this data for training custom LEGO object classification models. This highly realistic data is fully synthetic, and attempts to mimic photo-realism as closely as possible.
 
+---
+
 These images are in context, meaning objects are set in environments with random floor textures, random lighting conditions, and each image has the possibility of containing other LEGO parts, with occasional obstruction. This creates the opportunity to train an extremely robust model that is exposed to realistic expectations.
 
 ### FEATURES
